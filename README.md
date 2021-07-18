@@ -1,2 +1,2 @@
 # bookshelf-api
-For submission dicoding with node.js
+For dicoding submission with node.js
